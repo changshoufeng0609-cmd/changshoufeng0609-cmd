@@ -22,7 +22,3 @@ A voice-agent prototype for comparing and negotiating medical imaging cash price
 ## Background & tools
 
 My academic background is in **electrical engineering and computer science at National Tsing Hua University**. I work with **Python and MATLAB** for signal and image processing, and **FastAPI and SQLite** for applications.
-
-## Beyond research
-
-I founded **Fix and Chat 維修聊天室**, a community repair initiative that brings volunteers together to repair household items and help people keep them in use.
