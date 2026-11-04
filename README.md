@@ -1,4 +1,4 @@
-# Robert Chang · 張守豐
+# Robert Chang
 
 **Radar & RF · Signal processing · Computational imaging · AI agents**
 
