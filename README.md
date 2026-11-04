@@ -1,16 +1,28 @@
-## Hi there 👋
+# Robert Chang · 張守豐
 
-<!--
-**changshoufeng0609-cmd/changshoufeng0609-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Radar & RF · Signal processing · Computational imaging · AI agents**
 
-Here are some ideas to get you started:
+I'm an M.S. student in Communication Engineering at **National Taiwan University (NTU)**, Taiwan. I work on radar systems, RF, and signal processing. Alongside my research, I build AI agents and practical tools for working with audio, documents, and data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research & experience
+
+- **Radar and RF:** radar sensing, antenna arrays, and signal processing.
+- **Computational imaging:** terahertz reflective ptychography and image reconstruction.
+- **Research internship:** the University of Adelaide, Australia, working on terahertz imaging.
+- **Recognition:** OPTIC 2024 Student Poster Award.
+
+## Selected project
+
+### [ScanSaver](https://github.com/changshoufeng0609-cmd/scansaver)
+
+A voice-agent prototype for comparing and negotiating medical imaging cash prices, with a ranked report backed by quotes and call evidence.
+
+**Built with:** Python · FastAPI · ElevenLabs · OpenAI · SQLite
+
+## Background & tools
+
+My academic background is in **electrical engineering and computer science at National Tsing Hua University**. I work with **Python and MATLAB** for signal and image processing, and **FastAPI and SQLite** for applications.
+
+## Beyond research
+
+I founded **Fix and Chat 維修聊天室**, a community repair initiative that brings volunteers together to repair household items and help people keep them in use.
